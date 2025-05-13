@@ -1,0 +1,11 @@
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\bin\Debug\Пятигорская бронза приложение.exe.config
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\bin\Debug\Пятигорская бронза приложение.exe
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\bin\Debug\Пятигорская бронза приложение.pdb
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская бронза приложение.csproj.AssemblyReference.cache
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская_бронза_приложение.Properties.Resources.resources
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская бронза приложение.csproj.GenerateResource.cache
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская бронза приложение.csproj.CoreCompileInputs.cache
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская бронза приложение.exe
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская бронза приложение.pdb
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская_бронза_приложение.Form1.resources
+C:\Users\NETANO\source\repos\Пятигорская бронза приложение\obj\Debug\Пятигорская_бронза_приложение.Form2.resources
